@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Волошенко</string>
+
+    <string name="fio">Волошенко Кирилл Андреевич</string>
+    <string name="email">voloshenko20034@inbox.ru</string>
+    <string name="group">Группа Т-433901-ИСТ</string>
+
+    <string name="nav_form">Форма</string>
+    <string name="nav_test">Тест</string>
+    <string name="nav_notify">Уведомления</string>
+
+    <string name="form_title">Форма обратной связи</string>
+    <string name="hint_fio">ФИО</string>
+    <string name="hint_email">Email</string>
+    <string name="btn_send">Отправить</string>
+    <string name="dialog_title">Заявка отправлена</string>
+    <string name="btn_ok">ОК</string>
+    <string name="fill_fields">Заполните ФИО и email</string>
+    <string name="bad_email">Проверьте email</string>
+
+    <string name="test_title">Тестирование</string>
+    <string name="question">Какой компонент размещают внизу экрана, чтобы переключаться между разделами?</string>
+    <string name="btn_answer">Ответить</string>
+    <string name="choose_title">Выберите ответ</string>
+    <string name="btn_ready">Готово</string>
+    <string name="btn_cancel">Отмена</string>
+    <string name="choose_first">Сначала выберите вариант</string>
+    <string name="answer_ok">Ответ правильный</string>
+    <string name="answer_bad">Ответ неправильный</string>
+
+    <string name="notify_title">Уведомления</string>
+    <string name="btn_notify">Отправить уведомление</string>
+    <string name="notify_sent">Уведомление отправлено</string>
+    <string name="notify_denied">Разрешите уведомления, иначе пуш не придёт</string>
+    <string name="channel_name">Уведомления</string>
+</resources>
